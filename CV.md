@@ -25,3 +25,26 @@ Code examples
       return a * b
     }
 ```
+
+Work experience	
+-------------------------------
+>January 2012 – till now  
+>>JSC Keramin
+>>Position: Technical specialist 
+>December 2021 – till now
+>>RS School 
+>>CV project
+
+Education
+----------
+- **BSUIR Affiliate "Minsk Radioengineering College"** 2008 – 2011
+- **BELARUS STATE ECONOMIC UNIVERSITY** 2016 – 2020
+Knowledge of economics and management of Enterprise
+- **RS school** 2021 – till now
+Basic knowledge of development knowledge using JavaScript, HTML, CSS
+
+Languages
+---------
+0. Russian – native speaker
+0. Ukrainian – B2
+0. English - A2 + (EPAM English test result: A2)
