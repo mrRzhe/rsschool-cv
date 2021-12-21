@@ -31,7 +31,7 @@ Work experience
 - January 2012 – till now  
     JSC Keramin  
     Position: Technical specialist 
-- December 2021 – till now
+- December 2021 – till now  
     RS School  
     CV project
 
@@ -45,6 +45,6 @@ Basic knowledge of development knowledge using JavaScript, HTML, CSS
 
 Languages
 ---------
-1. Russian – native speaker
-2. Ukrainian – B2
-3. English - A2 + (EPAM English test result: A2)
+1. **Russian**      – native speaker
+2. **Ukrainian**    – B2
+3. **English**      - A2 + (EPAM English test result: A2)
