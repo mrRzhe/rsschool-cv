@@ -14,7 +14,7 @@ I’m a team player, like to work within a group of good professionals, motivate
 
 Skills
 -----------
-**OS:**         Windows
+**OS:**         Windows  
 **Tools:**      Html basics, CSS, Git/GitHub, Photoshop, VS Code
 
 
