@@ -1,1 +1,1 @@
-[Maksim Rzhepisheuski](https://mrRzhe.github.io/rsschool-cv/cv)
+[Maksim Rzhepisheuski](https://mrRzhe.github.io/rsschool-cv/CV)
